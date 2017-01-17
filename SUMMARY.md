@@ -3,8 +3,10 @@
 ### Ruby Australia
 
 * [Introduction](rubyau/readme.md)
+* [Constitution](rubyau/constitution.md)
 * [Committee Roles](rubyau/committee-roles.md)
 * [Legal overview](rubyau/legal-overview.md)
+
 
 ### Railscamp
 
