@@ -1,6 +1,24 @@
 # President
 
+The president guides the overall direction of the organisation. They make the final call on major decisions and delegate work to general members. They are in charge of making sure the committee is running smoothly and members are meeting their obligations.
+
+Occasionally they need to mediate interpersonal issues within the committee or address code of conduct breaches within the member base.
+
+General meetings
+Chair the meetings, often delegating the running of the meetings to a trusted member of the organisation (usually Pat Allan).
+Casting the deciding vote in the instance of a draw.
+
+Sponsorship
+Maintain relationships with major sponsors and ensure expectations are met.
+
+Time output: 5+ hours a week?
+
 # Vice-President
+
+Assists the president in their duties. Probably the most free flowing of the officer roles. Depending on the strengths and preferences of the individuals involved, the vice president will take on mainly presidential but potentially other member duties where needed to support the organisation as a whole. They take on all presidential duties when the president is absent.
+
+Time output: 4-5 hours per week
+
 
 
 # Secretary
@@ -58,3 +76,6 @@ We will likely need to register for GST once our income goes over $150,000 per a
 
 # General Member
 
+General members are tasked with supporting the current needs of the organisation in various ways. They might be on the organising team of an upcoming camp or conference, heading a subcommittee to work on a particular aspect of the organisation like the website/sponsorship or handling the social media and other member communication. We try to utilise the strengths and interests of each member to the best effect, and to allow them a fair amount of autonomy in their area of focus.
+
+Time output: 2-3 hours a week
