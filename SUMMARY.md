@@ -6,7 +6,7 @@
 * [Constitution](rubyau/constitution.md)
 * [Committee Roles](rubyau/committee-roles.md)
 * [Legal overview](rubyau/legal-overview.md)
-
+* [Memorable Moments](rubyau/memorable-moments.md)
 
 ### Railscamp
 
