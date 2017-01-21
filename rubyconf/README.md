@@ -1,4 +1,4 @@
-# Rails Camp
+# RubyConf
 
 ## Updates and Contributions
 

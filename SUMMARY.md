@@ -24,7 +24,16 @@
 
 ### RubyConf
 
-* [RubyConf](rubyconf/README.md)
+* [Getting Started](rubyconf/README.md)
+* [Culture and Safety](rubyconf/culture.md)
+* [Venue Considerations](rubyconf/venue.md)
+* [Planning](rubyconf/planning.md)
+* [Tickets](rubyconf/tickets.md)
+* [Sponsorship](rubyconf/sponsorship.md)
+* [Team](rubyconf/team.md)
+* [Speakers](rubyconf/speakers.md)
+* [Workshops](rubyconf/workshops.md)
+* [Social Events](rubyconf/social.md)
 
 ### Meetups Guide
 
