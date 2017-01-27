@@ -3,6 +3,22 @@ Sydney Roro meetup
 
 Current organisers: Joss Paling, Tracy Mu Sung, Andrew Harvey
 
+## Schedule
+- Arrive and mingle with dinner from 6 to 6:30
+- Welcome: the host of the meetup welcomes everyone and thanks the sponsors
+- The host asks brand new people to raise their hands, then we have a few minutes where regulars sitting/standing around those new people introduce themselves and welcome them
+- Talks commence, with 5 minute break between each
+- After talks, the host invites people to share tips and tricks with the group
+- The host goes through events that are upcoming
+- People offering work are given the opportunity to give a quick pitch (30 seconds each)
+- Wrap up before 8:30, people move on to non-official venues to carry on socialising
+
+## Talks
+
+Talks are submitted at our [issues page](https://github.com/rails-oceania/roro/issues) and are selected, scheduled and confirmed by the meetup organisers.
+
+Each meetup has around 3 speakers - with talk length of 15 minutes each. We also will include lightning talks of 5 minutes each if available.
+
 ## Current venue
 
 * Pivotal Labs - Level 11, 155 Clarence St, Sydney
