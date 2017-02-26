@@ -42,6 +42,7 @@ Please keep in mind that previous organisers and the Ruby Australia committee wi
 * [Equipment](equipment.md)
 * [Team](team.md)
 * [Schedule](schedule.md)
+* [Tips](tips.md)
 
 ## FAQ
 

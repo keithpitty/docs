@@ -5,8 +5,9 @@
 * [Introduction](rubyau/readme.md)
 * [Constitution](rubyau/constitution.md)
 * [Committee Roles](rubyau/committee-roles.md)
-* [Legal overview](rubyau/legal-overview.md)
+* [Legals](rubyau/legals.md)
 * [Memorable Moments](rubyau/memorable-moments.md)
+* [Tips](rubyau/tips.md)
 
 ### Railscamp
 
@@ -21,6 +22,7 @@
 * [Equipment](railscamp/equipment.md)
 * [Team](railscamp/team.md)
 * [Schedule](railscamp/schedule.md)
+* [Tips](railscamp/tips.md)
 
 ### RubyConf
 
