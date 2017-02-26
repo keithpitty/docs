@@ -33,10 +33,6 @@ It’s what gets us out of bed in the morning. Focus on what’s important. Take
 ### Fifth guideline: WE ARE HAPPY
 Like ruby we exist for the furtherment of ‘programmer happiness’.
 
-###  Fifth guideline: WE ARE HAPPY
-Like ruby we exist for the furtherment of ‘programmer happiness’.
-
-
 ## Committee Composition
 
 - According to the Ruby Australia constitution, we need to have the following office bearers: President, Vice-President, Secretary, Treasurer and two general committee members
@@ -78,44 +74,41 @@ We suggest the committee should generally meet at least once a month for 1 hour.
 
 ### Knowledge Management
 
-1. There is a ‘Ruby Australia’ folder within Google Docs.
-That is where this document is saved. If you don’t have access to this folder already, ask the secretary or someone else on the committee for access.
+- There is a ‘Ruby Australia’ folder within Google Docs
+  - That is where this document is saved. If you don’t have access to this folder already, ask the secretary or someone else on the committee for access.
 
-2. Ruby Australia 1password account.
-This 1password team contains most of our online logins.
-There are folders for Camp and Conference organisers.
-Admin access to the account lies with Len, Ryan and Lauren.
-You will be added to different vaults as needed.
-Please don’t set up online account without checking if one already exists.
+- Ruby Australia 1Password account
+  - This 1password team contains most of our online logins.
+  - There are folders f  or Camp and Conference organisers.
+  - Admin access to the account lies with Len, Ryan and Lauren.
+  - You will be added to different vaults as needed.
+  - Please don’t set up online account without checking if one already exists.
+  - Please use the email account:
+    - online@ruby.org.au for registering online accounts (eg youtube, twitter etc)
 
-Please use the email account:
-online@ruby.org.au for registering online accounts (eg youtube, twitter etc)
+- Email accounts
+  Rego account for online services - online@ruby.org.au
 
-3. Email accounts
-Rego account for online services - online@ruby.org.au
+  Key Email accounts to know about:
+  - online@ruby.org.au
+  - president@ruby.org.au
+  - treasurer@ruby.org.au
+  - secretary@ruby.org.au
+  - membership@ruby.org.au
+  - info@ruby.org.au
+  - railscamp@ruby.org.au
 
-Key Email accounts to know about:
-- online@ruby.org.au
-- president@ruby.org.au
-- treasurer@ruby.org.au
-- secretary@ruby.org.au
-- membership@ruby.org.au
-- info@ruby.org.au
-- railscamp@ruby.org.au
-
-Note:  At the time of writing, Pat Allan (@pat) has access to the DNSimple account that manages forwarding of these email accounts.
+  Note:  At the time of writing, Pat Allan (@pat) has access to the DNSimple account that manages forwarding of these email accounts.
 
 
 ### Publicity
-1. Website
-The Ruby Australia website has been ported to a Rails app by Edward Tippett. It is hosted at ruby.org.au via Heroku. It was initially developed by Ben Schwarz and David Goodlad and remains visually the same for now.  In the spirit of lean development, this site was launched in a minimal state.
 
-2. Twitter
-The @rubyaustralia twitter account is useful for promoting upcoming Ruby Australia events. Current responsibility lies with general committee member.
-
-3. Google Group
-The well established rails-oceania Google Group continues to be used for Ruby Australia announcements.
-
-4. Campaign Monitor
-The Campaign Monitor account also handles announcements, as well as communication with camp and conference attendees.
-
+- Website
+  - The Ruby Australia website is a Rails app. It is hosted at ruby.org.au via Heroku. It was initially developed by Ben Schwarz and David Goodlad and remains visually the same for now, later it was ported to Rails by Edward Tippett.  In the spirit of lean development, this site was launched in a minimal state.
+- Twitter
+  - The @rubyaustralia twitter account is useful for promoting upcoming Ruby Australia events. Current responsibility lies with general committee member.
+- Google Group
+  - The well established rails-oceania Google Group continues to be used for Ruby Australia announcements.
+- Campaign Monitor
+  - The Campaign Monitor account also handles announcements, as well as communication with camp and conference attendees.
+- Slack
