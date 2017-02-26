@@ -40,3 +40,4 @@
 ### Meetups Guide
 
 * [Melbourne](meetups/melbourne.md)
+* [Sydney](meetups/sydney.md)
