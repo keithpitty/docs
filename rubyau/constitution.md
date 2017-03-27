@@ -280,7 +280,7 @@ If the mediation process does not resolve the dispute, the parties may seek to r
 #### 31 Special general meetings
 
 1. Any general meeting of the Association, other than an annual general meeting or a disciplinary appeal meeting, is a special general meeting.
-2. Special general meetings are held twice a year on the Sunday of the Association’s Rail Camp events, which include the ordinary business of electing some of the members of the Committee.
+2. Special general meetings are held twice a year on the Sunday of the Association’s Rails Camp events, which include the ordinary business of electing some of the members of the Committee.
 3. The Committee may convene a special general meeting whenever it thinks fit.
 
 #### 32 Special general meeting held at request of members
@@ -564,7 +564,7 @@ If the mediation process does not resolve the dispute, the parties may seek to r
 
 #### 54 Term of office
 
-1. Subject to subrule 3 and rule 56, a committee member holds office until the positions of the Committee are declared vacant at the next annual general meeting or special general meeting whichever falls on the 12 month anniversary of the member’s appointment.
+1. Subject to subrule 3 and rule 55, a committee member holds office until the positions of the Committee are declared vacant at the next annual general meeting or special general meeting whichever falls on the 12 month anniversary of the member’s appointment.
 
 2. A committee member may be re-elected.
 
@@ -582,7 +582,7 @@ If the mediation process does not resolve the dispute, the parties may seek to r
 
 2. A person ceases to be a committee member if he or she—
   1. ceases to be a member of the Association; or
-  2. fails to attend 3 consecutive committee meetings (other than special or urgent committee meetings) without leave of absence under rule 67; or
+  2. fails to attend 3 consecutive committee meetings (other than special or urgent committee meetings) without leave of absence under rule 65; or
   3. otherwise ceases to be a committee member by operation of section 78 of the Act.
 
   ##### Note
@@ -596,7 +596,7 @@ If the mediation process does not resolve the dispute, the parties may seek to r
 
 2. If the position of Secretary becomes vacant, the Committee must appoint a member to the position within 14 days after the vacancy arises.
 
-3. Rule 56 also applies to any committee member appointed by the Committee to fill a vacant position under subrule 1 or 2.
+3. Rule 55 also applies to any committee member appointed by the Committee to fill a vacant position under subrule 1 or 2.
 
 4. The Committee may continue to act despite any vacancy in its membership.
 
@@ -610,9 +610,15 @@ If the mediation process does not resolve the dispute, the parties may seek to r
   
 #### 58 Notice of meetings
 
-1. If a special committee meeting is convened, the Secretary must give Committee Members notice by way of email which must include the general nature of the business to be conducted.
+1. Notice of each committee meeting must be given to each committee member no later than 7 days before the date of the meeting.
 
-2. The only business that may be conducted at the meeting is the business for which the meeting is convened.
+2.	Notice may be given of more than one committee meeting at the same time.
+
+3.	The notice must state the date, time and place of the meeting.
+
+4. If a special committee meeting is convened, the Secretary must give Committee Members notice by way of email which must include the general nature of the business to be conducted.
+
+5. The only business that may be conducted at the meeting is the business for which the meeting is convened.
 
 #### 59 Urgent meetings
 
@@ -636,7 +642,7 @@ If the mediation process does not resolve the dispute, the parties may seek to r
 
 3. If a quorum is not present within 30 minutes after the notified commencement time of a committee meeting—
   1. in the case of a special meeting—the meeting lapses;
-  2. in any other case—the meeting must be adjourned to a date no later than 14 days after the adjournment and notice of the time, date and place to which the meeting is adjourned must be given in accordance with rule 59.
+  2. in any other case—the meeting must be adjourned to a date no later than 14 days after the adjournment and notice of the time, date and place to which the meeting is adjourned must be given in accordance with rule 58.
 
 #### 62 Voting
 
@@ -730,6 +736,10 @@ The funds of the Association may be derived from joining fees, annual subscripti
   2. a document may only be sealed with the common seal by the authority of the Committee and the sealing must be witnessed by the signatures of two committee members;
   3. the common seal must be kept in the custody of the Secretary.
 
+3. The Treasurer must keep in his or her custody, or under his or her control—
+  1. the financial records for the current financial year; and
+  2. any other financial records as authorised by the Committee
+
 #### 71 Registered address
 
 The registered address of the Association is—
@@ -748,7 +758,7 @@ The registered address of the Association is—
   3. subject to subrule 2, the financial records, books, securities and any other relevant document of the Association, including minutes of Committee meetings.
 
   ##### Note
-  See note following rule 18 for details of access to the register of members.
+  See rule 18 for details of access to the register of members.
 
 2. The Committee may refuse to permit a member to inspect records of the Association that relate to confidential, personal, employment, commercial or legal matters or where to do so may be prejudicial to the interests of the Association.
 
