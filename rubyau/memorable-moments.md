@@ -26,8 +26,8 @@
 ## 2013
 
 - 2013.11.01 - Rails Camp 14 / Yarramundi NSW /
-- 2013.06.21 - Rails Camp 13 / Melbourne VIC /
-- 2013.02.22 - RubyConf AU 2013 / Somers VIC /
+- 2013.06.21 - Rails Camp 13 / Somers VIC /
+- 2013.02.22 - RubyConf AU 2013 / Melbourne VIC /
 
 ## 2012
 
