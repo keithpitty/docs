@@ -13,7 +13,7 @@
 
 ## 2015
 
-- 2015.12.11 - Rails Camp 18 / Camp Cottermouth 
+- 2015.12.11 - Rails Camp 18 / Camp Cottermouth ACT /
 - 2015.06.12 - Rails Camp 17 / Broken Bay NSW /
 - 2015.02.04 - RubyConf AU 2015 / Melbourne VIC /
 
